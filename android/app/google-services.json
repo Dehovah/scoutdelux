@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "994413404815",
+    "project_id": "scoutdelux-37acc",
+    "storage_bucket": "scoutdelux-37acc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994413404815:android:8e1ed2c18a8709bb9506fa",
+        "android_client_info": {
+          "package_name": "com.itdelux.scout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994413404815-je5oo33rorekt4hbs6378qde3oii6jbl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.itdelux.scout",
+            "certificate_hash": "19dc62ace26e23645787676dee01b4b4396c99d1"
+          }
+        },
+        {
+          "client_id": "994413404815-i4rkp9ggj7knnbl9cjifeieqd1qa9hu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAN6t5Z2pZfaxAR8_m5xQCfD6TKXjBYZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994413404815-5hvgdn36f2d8pom6rgnukjlv2ntr4gtg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "994413404815-u1n9geisa6a5bm2fqal0a3l1ducavoth.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.itdelux.scout"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994413404815:android:5d5ecfcce718f6a39506fa",
+        "android_client_info": {
+          "package_name": "com.itdelux.scout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994413404815-i4rkp9ggj7knnbl9cjifeieqd1qa9hu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAN6t5Z2pZfaxAR8_m5xQCfD6TKXjBYZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994413404815-5hvgdn36f2d8pom6rgnukjlv2ntr4gtg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "994413404815-u1n9geisa6a5bm2fqal0a3l1ducavoth.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.itdelux.scout"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
