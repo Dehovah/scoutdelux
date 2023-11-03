@@ -1,4 +1,4 @@
-# bubbly
+# Scoutdelux
 
 A new Flutter application.
 
